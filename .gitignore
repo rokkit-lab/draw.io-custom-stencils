@@ -1,0 +1,19 @@
+### draw.io ###
+# Used by draw.io desktop for backup files
+*.bkp
+
+
+### Git ###
+# Folder used by Github Desktop
+/.git
+# Created by git for backups. To disable backups in Git:
+*.orig
+# Created by git when using merge tools for conflicts
+*.BACKUP.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTE.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
